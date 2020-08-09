@@ -1,25 +1,22 @@
 # Meadian_Filter-Mean_Filter
 
-source image
+## Source Image
 
-![source image](E:\Project\Meadian_Filter-Mean_Filter\1.bmp)
+![source image](1.bmp)
 
 
-
+## Mean Filter
 ```bash
 python MeanFilter.py
 ```
 
-mean filter result
-
 ![mean_filter_result](mean_filter_result.png)
 
 
+## Median Filter
 ```bash
 python MedianFilter.py
 ```
-
-median filter result
 
 ![median_filter_result](median_filter_result.png)
 
